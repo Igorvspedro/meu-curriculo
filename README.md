@@ -8,7 +8,7 @@ O objetivo é ter uma versão online do meu currículo que possa ser facilmente 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5** → estrutura da página  
 - **CSS3** → estilização e layout responsivo  
-- (Opcional) **JavaScript** → interatividade  
+- **JavaScript** → interatividade  
 
 ---
 
